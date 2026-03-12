@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サザンオールスターズ - アロエ [Official Music Video]",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2026-03-12T13:48:37.545410Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アロエ",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_アロエ_サザンオールスターズ.txt"
+    }
+  ]
+}
